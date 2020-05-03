@@ -1,5 +1,5 @@
 # retro
-My first steps in coding since 1997 year
+My first steps in coding since 1997
 
 ## Before run
 
